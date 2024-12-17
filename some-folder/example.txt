@@ -1,0 +1,3 @@
+Hi, I am learning devops ,scripting and git
+
+Hello, i am doing changes
